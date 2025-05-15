@@ -15,13 +15,6 @@ In an era of increasing cyber threats, many organizations — particularly SMEs 
 - 🧭 **Step-by-step mitigation recommendations** for each detected vulnerability.
 - 👥 **Role-based interface** for IT experts, business owners, and non-technical staff.
 
-## ❌ Limitations
-
-- No real-time threat detection (IDS/IPS not included).
-- No automated patching or remediation.
-- No penetration testing features.
-- Not a replacement for antivirus, firewalls, or SIEM tools — designed to complement them.
-
 ## 🔧 Technologies Used
 
 - **Python 3.x**
